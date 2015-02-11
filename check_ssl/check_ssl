@@ -1,2 +1,2 @@
-./check_ssl_cert.sh -H `hostname`
+check_ssl_cert.sh -H `hostname`
 
