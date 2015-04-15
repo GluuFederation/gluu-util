@@ -1,0 +1,4 @@
+#!/bin/sh
+
+check_ssl_cert.sh -H `hostname`
+
